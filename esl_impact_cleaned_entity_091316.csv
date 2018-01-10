@@ -1,0 +1,362 @@
+,Unnamed: 0,entity_type,entity,demographic,demographic_type,variable,value,statement_id,statement,subscale,entity_first_x,entity_id,entity_parent,entity_first_y
+0,0.0,ALT,ACCELERE,ELL,ELL,-2,0.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+1,1.0,ALT,ACCELERE,Former ELL,ELL,-2,0.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+2,2.0,ALT,ACCELERE,Not ELL,ELL,-2,0.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+3,248.0,ALT,ACCELERE,ELL,ELL,-1,0.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+4,249.0,ALT,ACCELERE,Former ELL,ELL,-1,0.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+5,250.0,ALT,ACCELERE,Not ELL,ELL,-1,0.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+6,496.0,ALT,ACCELERE,ELL,ELL,0,0.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+7,497.0,ALT,ACCELERE,Former ELL,ELL,0,2.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+8,498.0,ALT,ACCELERE,Not ELL,ELL,0,6.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+9,744.0,ALT,ACCELERE,ELL,ELL,1,2.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+10,745.0,ALT,ACCELERE,Former ELL,ELL,1,3.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+11,746.0,ALT,ACCELERE,Not ELL,ELL,1,11.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+12,992.0,ALT,ACCELERE,ELL,ELL,2,0.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+13,993.0,ALT,ACCELERE,Former ELL,ELL,2,1.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+14,994.0,ALT,ACCELERE,Not ELL,ELL,2,3.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+15,1240.0,ALT,ACCELERE,ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+16,1241.0,ALT,ACCELERE,Former ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+17,1242.0,ALT,ACCELERE,Not ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+18,1488.0,ALT,ACCELERE,ELL,ELL,disagree,0.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+19,1489.0,ALT,ACCELERE,Former ELL,ELL,disagree,0.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+20,1490.0,ALT,ACCELERE,Not ELL,ELL,disagree,0.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+21,1736.0,ALT,ACCELERE,ELL,ELL,neutral,0.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+22,1737.0,ALT,ACCELERE,Former ELL,ELL,neutral,2.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+23,1738.0,ALT,ACCELERE,Not ELL,ELL,neutral,6.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+24,1984.0,ALT,ACCELERE,ELL,ELL,agree,2.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+25,1985.0,ALT,ACCELERE,Former ELL,ELL,agree,4.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+26,1986.0,ALT,ACCELERE,Not ELL,ELL,agree,14.0,Q34,The atmosphere at this school is positive,School Climate,ACCELERE,1217,OPS,ACCELERE
+27,12.0,ALT,TRANSITION PROGRAM AT PVA,Not ELL,ELL,-2,0.0,Q34,The atmosphere at this school is positive,School Climate,TRANSITION,1215,OPS,TRANSITION
+28,260.0,ALT,TRANSITION PROGRAM AT PVA,Not ELL,ELL,-1,0.0,Q34,The atmosphere at this school is positive,School Climate,TRANSITION,1215,OPS,TRANSITION
+29,508.0,ALT,TRANSITION PROGRAM AT PVA,Not ELL,ELL,0,1.0,Q34,The atmosphere at this school is positive,School Climate,TRANSITION,1215,OPS,TRANSITION
+30,756.0,ALT,TRANSITION PROGRAM AT PVA,Not ELL,ELL,1,0.0,Q34,The atmosphere at this school is positive,School Climate,TRANSITION,1215,OPS,TRANSITION
+31,1004.0,ALT,TRANSITION PROGRAM AT PVA,Not ELL,ELL,2,0.0,Q34,The atmosphere at this school is positive,School Climate,TRANSITION,1215,OPS,TRANSITION
+32,1252.0,ALT,TRANSITION PROGRAM AT PVA,Not ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,TRANSITION,1215,OPS,TRANSITION
+33,1500.0,ALT,TRANSITION PROGRAM AT PVA,Not ELL,ELL,disagree,0.0,Q34,The atmosphere at this school is positive,School Climate,TRANSITION,1215,OPS,TRANSITION
+34,1748.0,ALT,TRANSITION PROGRAM AT PVA,Not ELL,ELL,neutral,1.0,Q34,The atmosphere at this school is positive,School Climate,TRANSITION,1215,OPS,TRANSITION
+35,1996.0,ALT,TRANSITION PROGRAM AT PVA,Not ELL,ELL,agree,0.0,Q34,The atmosphere at this school is positive,School Climate,TRANSITION,1215,OPS,TRANSITION
+36,20.0,E,BANCROFT ELEMENTARY,ELL,ELL,-2,1.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+37,21.0,E,BANCROFT ELEMENTARY,Former ELL,ELL,-2,0.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+38,22.0,E,BANCROFT ELEMENTARY,Not ELL,ELL,-2,2.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+39,268.0,E,BANCROFT ELEMENTARY,ELL,ELL,-1,5.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+40,269.0,E,BANCROFT ELEMENTARY,Former ELL,ELL,-1,2.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+41,270.0,E,BANCROFT ELEMENTARY,Not ELL,ELL,-1,9.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+42,516.0,E,BANCROFT ELEMENTARY,ELL,ELL,0,10.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+43,517.0,E,BANCROFT ELEMENTARY,Former ELL,ELL,0,7.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+44,518.0,E,BANCROFT ELEMENTARY,Not ELL,ELL,0,37.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+45,764.0,E,BANCROFT ELEMENTARY,ELL,ELL,1,12.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+46,765.0,E,BANCROFT ELEMENTARY,Former ELL,ELL,1,16.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+47,766.0,E,BANCROFT ELEMENTARY,Not ELL,ELL,1,48.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+48,1012.0,E,BANCROFT ELEMENTARY,ELL,ELL,2,5.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+49,1013.0,E,BANCROFT ELEMENTARY,Former ELL,ELL,2,10.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+50,1014.0,E,BANCROFT ELEMENTARY,Not ELL,ELL,2,29.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+51,1260.0,E,BANCROFT ELEMENTARY,ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+52,1261.0,E,BANCROFT ELEMENTARY,Former ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+53,1262.0,E,BANCROFT ELEMENTARY,Not ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+54,1508.0,E,BANCROFT ELEMENTARY,ELL,ELL,disagree,6.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+55,1509.0,E,BANCROFT ELEMENTARY,Former ELL,ELL,disagree,2.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+56,1510.0,E,BANCROFT ELEMENTARY,Not ELL,ELL,disagree,11.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+57,1756.0,E,BANCROFT ELEMENTARY,ELL,ELL,neutral,10.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+58,1757.0,E,BANCROFT ELEMENTARY,Former ELL,ELL,neutral,7.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+59,1758.0,E,BANCROFT ELEMENTARY,Not ELL,ELL,neutral,37.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+60,2004.0,E,BANCROFT ELEMENTARY,ELL,ELL,agree,17.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+61,2005.0,E,BANCROFT ELEMENTARY,Former ELL,ELL,agree,26.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+62,2006.0,E,BANCROFT ELEMENTARY,Not ELL,ELL,agree,77.0,Q34,The atmosphere at this school is positive,School Climate,BANCROFT,1204,OPS,BANCROFT
+63,79.0,E,GATEWAY ELEMENTARY,ELL,ELL,-2,3.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+64,80.0,E,GATEWAY ELEMENTARY,Former ELL,ELL,-2,2.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+65,81.0,E,GATEWAY ELEMENTARY,Not ELL,ELL,-2,4.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+66,327.0,E,GATEWAY ELEMENTARY,ELL,ELL,-1,2.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+67,328.0,E,GATEWAY ELEMENTARY,Former ELL,ELL,-1,6.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+68,329.0,E,GATEWAY ELEMENTARY,Not ELL,ELL,-1,9.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+69,575.0,E,GATEWAY ELEMENTARY,ELL,ELL,0,4.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+70,576.0,E,GATEWAY ELEMENTARY,Former ELL,ELL,0,15.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+71,577.0,E,GATEWAY ELEMENTARY,Not ELL,ELL,0,16.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+72,823.0,E,GATEWAY ELEMENTARY,ELL,ELL,1,21.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+73,824.0,E,GATEWAY ELEMENTARY,Former ELL,ELL,1,36.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+74,825.0,E,GATEWAY ELEMENTARY,Not ELL,ELL,1,36.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+75,1071.0,E,GATEWAY ELEMENTARY,ELL,ELL,2,11.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+76,1072.0,E,GATEWAY ELEMENTARY,Former ELL,ELL,2,25.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+77,1073.0,E,GATEWAY ELEMENTARY,Not ELL,ELL,2,35.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+78,1319.0,E,GATEWAY ELEMENTARY,ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+79,1320.0,E,GATEWAY ELEMENTARY,Former ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+80,1321.0,E,GATEWAY ELEMENTARY,Not ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+81,1567.0,E,GATEWAY ELEMENTARY,ELL,ELL,disagree,5.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+82,1568.0,E,GATEWAY ELEMENTARY,Former ELL,ELL,disagree,8.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+83,1569.0,E,GATEWAY ELEMENTARY,Not ELL,ELL,disagree,13.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+84,1815.0,E,GATEWAY ELEMENTARY,ELL,ELL,neutral,4.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+85,1816.0,E,GATEWAY ELEMENTARY,Former ELL,ELL,neutral,15.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+86,1817.0,E,GATEWAY ELEMENTARY,Not ELL,ELL,neutral,16.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+87,2063.0,E,GATEWAY ELEMENTARY,ELL,ELL,agree,32.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+88,2064.0,E,GATEWAY ELEMENTARY,Former ELL,ELL,agree,61.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+89,2065.0,E,GATEWAY ELEMENTARY,Not ELL,ELL,agree,71.0,Q34,The atmosphere at this school is positive,School Climate,GATEWAY,1226,OPS,GATEWAY
+90,155.0,E,SKINNER MAGNET CENTER,ELL,ELL,-2,0.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+91,156.0,E,SKINNER MAGNET CENTER,Former ELL,ELL,-2,0.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+92,157.0,E,SKINNER MAGNET CENTER,Not ELL,ELL,-2,8.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+93,403.0,E,SKINNER MAGNET CENTER,ELL,ELL,-1,0.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+94,404.0,E,SKINNER MAGNET CENTER,Former ELL,ELL,-1,1.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+95,405.0,E,SKINNER MAGNET CENTER,Not ELL,ELL,-1,13.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+96,651.0,E,SKINNER MAGNET CENTER,ELL,ELL,0,2.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+97,652.0,E,SKINNER MAGNET CENTER,Former ELL,ELL,0,1.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+98,653.0,E,SKINNER MAGNET CENTER,Not ELL,ELL,0,33.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+99,899.0,E,SKINNER MAGNET CENTER,ELL,ELL,1,0.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+100,900.0,E,SKINNER MAGNET CENTER,Former ELL,ELL,1,2.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+101,901.0,E,SKINNER MAGNET CENTER,Not ELL,ELL,1,22.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+102,1147.0,E,SKINNER MAGNET CENTER,ELL,ELL,2,0.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+103,1148.0,E,SKINNER MAGNET CENTER,Former ELL,ELL,2,1.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+104,1149.0,E,SKINNER MAGNET CENTER,Not ELL,ELL,2,15.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+105,1395.0,E,SKINNER MAGNET CENTER,ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+106,1396.0,E,SKINNER MAGNET CENTER,Former ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+107,1397.0,E,SKINNER MAGNET CENTER,Not ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+108,1643.0,E,SKINNER MAGNET CENTER,ELL,ELL,disagree,0.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+109,1644.0,E,SKINNER MAGNET CENTER,Former ELL,ELL,disagree,1.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+110,1645.0,E,SKINNER MAGNET CENTER,Not ELL,ELL,disagree,21.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+111,1891.0,E,SKINNER MAGNET CENTER,ELL,ELL,neutral,2.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+112,1892.0,E,SKINNER MAGNET CENTER,Former ELL,ELL,neutral,1.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+113,1893.0,E,SKINNER MAGNET CENTER,Not ELL,ELL,neutral,33.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+114,2139.0,E,SKINNER MAGNET CENTER,ELL,ELL,agree,0.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+115,2140.0,E,SKINNER MAGNET CENTER,Former ELL,ELL,agree,3.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+116,2141.0,E,SKINNER MAGNET CENTER,Not ELL,ELL,agree,37.0,Q34,The atmosphere at this school is positive,School Climate,SKINNER,1214,OPS,SKINNER
+117,158.0,E,SPRING LAKE MAGNET CENTER,Former ELL,ELL,-2,0.0,Q34,The atmosphere at this school is positive,School Climate,SPRING,1175,OPS,SPRING
+118,406.0,E,SPRING LAKE MAGNET CENTER,Former ELL,ELL,-1,0.0,Q34,The atmosphere at this school is positive,School Climate,SPRING,1175,OPS,SPRING
+119,654.0,E,SPRING LAKE MAGNET CENTER,Former ELL,ELL,0,0.0,Q34,The atmosphere at this school is positive,School Climate,SPRING,1175,OPS,SPRING
+120,902.0,E,SPRING LAKE MAGNET CENTER,Former ELL,ELL,1,0.0,Q34,The atmosphere at this school is positive,School Climate,SPRING,1175,OPS,SPRING
+121,1150.0,E,SPRING LAKE MAGNET CENTER,Former ELL,ELL,2,1.0,Q34,The atmosphere at this school is positive,School Climate,SPRING,1175,OPS,SPRING
+122,1398.0,E,SPRING LAKE MAGNET CENTER,Former ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,SPRING,1175,OPS,SPRING
+123,1646.0,E,SPRING LAKE MAGNET CENTER,Former ELL,ELL,disagree,0.0,Q34,The atmosphere at this school is positive,School Climate,SPRING,1175,OPS,SPRING
+124,1894.0,E,SPRING LAKE MAGNET CENTER,Former ELL,ELL,neutral,0.0,Q34,The atmosphere at this school is positive,School Climate,SPRING,1175,OPS,SPRING
+125,2142.0,E,SPRING LAKE MAGNET CENTER,Former ELL,ELL,agree,1.0,Q34,The atmosphere at this school is positive,School Climate,SPRING,1175,OPS,SPRING
+126,177.0,E,WILSON FOCUS SCHOOL,ELL,ELL,-2,0.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+127,178.0,E,WILSON FOCUS SCHOOL,Former ELL,ELL,-2,2.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+128,179.0,E,WILSON FOCUS SCHOOL,Not ELL,ELL,-2,6.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+129,425.0,E,WILSON FOCUS SCHOOL,ELL,ELL,-1,0.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+130,426.0,E,WILSON FOCUS SCHOOL,Former ELL,ELL,-1,0.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+131,427.0,E,WILSON FOCUS SCHOOL,Not ELL,ELL,-1,14.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+132,673.0,E,WILSON FOCUS SCHOOL,ELL,ELL,0,0.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+133,674.0,E,WILSON FOCUS SCHOOL,Former ELL,ELL,0,3.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+134,675.0,E,WILSON FOCUS SCHOOL,Not ELL,ELL,0,29.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+135,921.0,E,WILSON FOCUS SCHOOL,ELL,ELL,1,1.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+136,922.0,E,WILSON FOCUS SCHOOL,Former ELL,ELL,1,0.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+137,923.0,E,WILSON FOCUS SCHOOL,Not ELL,ELL,1,18.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+138,1169.0,E,WILSON FOCUS SCHOOL,ELL,ELL,2,1.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+139,1170.0,E,WILSON FOCUS SCHOOL,Former ELL,ELL,2,0.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+140,1171.0,E,WILSON FOCUS SCHOOL,Not ELL,ELL,2,9.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+141,1417.0,E,WILSON FOCUS SCHOOL,ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+142,1418.0,E,WILSON FOCUS SCHOOL,Former ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+143,1419.0,E,WILSON FOCUS SCHOOL,Not ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+144,1665.0,E,WILSON FOCUS SCHOOL,ELL,ELL,disagree,0.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+145,1666.0,E,WILSON FOCUS SCHOOL,Former ELL,ELL,disagree,2.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+146,1667.0,E,WILSON FOCUS SCHOOL,Not ELL,ELL,disagree,20.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+147,1913.0,E,WILSON FOCUS SCHOOL,ELL,ELL,neutral,0.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+148,1914.0,E,WILSON FOCUS SCHOOL,Former ELL,ELL,neutral,3.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+149,1915.0,E,WILSON FOCUS SCHOOL,Not ELL,ELL,neutral,29.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+150,2161.0,E,WILSON FOCUS SCHOOL,ELL,ELL,agree,2.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+151,2162.0,E,WILSON FOCUS SCHOOL,Former ELL,ELL,agree,0.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+152,2163.0,E,WILSON FOCUS SCHOOL,Not ELL,ELL,agree,27.0,Q34,The atmosphere at this school is positive,School Climate,WILSON,1046,OPS,WILSON
+153,213.0,M,BRYAN MIDDLE SCHOOL,ELL,ELL,-2,4.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+154,214.0,M,BRYAN MIDDLE SCHOOL,Former ELL,ELL,-2,17.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+155,215.0,M,BRYAN MIDDLE SCHOOL,Not ELL,ELL,-2,32.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+156,461.0,M,BRYAN MIDDLE SCHOOL,ELL,ELL,-1,3.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+157,462.0,M,BRYAN MIDDLE SCHOOL,Former ELL,ELL,-1,29.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+158,463.0,M,BRYAN MIDDLE SCHOOL,Not ELL,ELL,-1,49.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+159,709.0,M,BRYAN MIDDLE SCHOOL,ELL,ELL,0,25.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+160,710.0,M,BRYAN MIDDLE SCHOOL,Former ELL,ELL,0,111.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+161,711.0,M,BRYAN MIDDLE SCHOOL,Not ELL,ELL,0,123.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+162,957.0,M,BRYAN MIDDLE SCHOOL,ELL,ELL,1,13.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+163,958.0,M,BRYAN MIDDLE SCHOOL,Former ELL,ELL,1,66.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+164,959.0,M,BRYAN MIDDLE SCHOOL,Not ELL,ELL,1,81.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+165,1205.0,M,BRYAN MIDDLE SCHOOL,ELL,ELL,2,6.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+166,1206.0,M,BRYAN MIDDLE SCHOOL,Former ELL,ELL,2,13.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+167,1207.0,M,BRYAN MIDDLE SCHOOL,Not ELL,ELL,2,13.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+168,1453.0,M,BRYAN MIDDLE SCHOOL,ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+169,1454.0,M,BRYAN MIDDLE SCHOOL,Former ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+170,1455.0,M,BRYAN MIDDLE SCHOOL,Not ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+171,1701.0,M,BRYAN MIDDLE SCHOOL,ELL,ELL,disagree,7.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+172,1702.0,M,BRYAN MIDDLE SCHOOL,Former ELL,ELL,disagree,46.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+173,1703.0,M,BRYAN MIDDLE SCHOOL,Not ELL,ELL,disagree,81.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+174,1949.0,M,BRYAN MIDDLE SCHOOL,ELL,ELL,neutral,25.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+175,1950.0,M,BRYAN MIDDLE SCHOOL,Former ELL,ELL,neutral,111.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+176,1951.0,M,BRYAN MIDDLE SCHOOL,Not ELL,ELL,neutral,123.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+177,2197.0,M,BRYAN MIDDLE SCHOOL,ELL,ELL,agree,19.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+178,2198.0,M,BRYAN MIDDLE SCHOOL,Former ELL,ELL,agree,79.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+179,2199.0,M,BRYAN MIDDLE SCHOOL,Not ELL,ELL,agree,94.0,Q34,The atmosphere at this school is positive,School Climate,BRYAN,1021,OPS,BRYAN
+180,225.0,M,LEWIS & CLARK MIDDLE SCHOOL,ELL,ELL,-2,2.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+181,226.0,M,LEWIS & CLARK MIDDLE SCHOOL,Former ELL,ELL,-2,3.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+182,227.0,M,LEWIS & CLARK MIDDLE SCHOOL,Not ELL,ELL,-2,44.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+183,473.0,M,LEWIS & CLARK MIDDLE SCHOOL,ELL,ELL,-1,5.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+184,474.0,M,LEWIS & CLARK MIDDLE SCHOOL,Former ELL,ELL,-1,12.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+185,475.0,M,LEWIS & CLARK MIDDLE SCHOOL,Not ELL,ELL,-1,58.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+186,721.0,M,LEWIS & CLARK MIDDLE SCHOOL,ELL,ELL,0,24.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+187,722.0,M,LEWIS & CLARK MIDDLE SCHOOL,Former ELL,ELL,0,36.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+188,723.0,M,LEWIS & CLARK MIDDLE SCHOOL,Not ELL,ELL,0,125.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+189,969.0,M,LEWIS & CLARK MIDDLE SCHOOL,ELL,ELL,1,27.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+190,970.0,M,LEWIS & CLARK MIDDLE SCHOOL,Former ELL,ELL,1,25.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+191,971.0,M,LEWIS & CLARK MIDDLE SCHOOL,Not ELL,ELL,1,116.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+192,1217.0,M,LEWIS & CLARK MIDDLE SCHOOL,ELL,ELL,2,14.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+193,1218.0,M,LEWIS & CLARK MIDDLE SCHOOL,Former ELL,ELL,2,12.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+194,1219.0,M,LEWIS & CLARK MIDDLE SCHOOL,Not ELL,ELL,2,37.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+195,1465.0,M,LEWIS & CLARK MIDDLE SCHOOL,ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+196,1466.0,M,LEWIS & CLARK MIDDLE SCHOOL,Former ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+197,1467.0,M,LEWIS & CLARK MIDDLE SCHOOL,Not ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+198,1713.0,M,LEWIS & CLARK MIDDLE SCHOOL,ELL,ELL,disagree,7.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+199,1714.0,M,LEWIS & CLARK MIDDLE SCHOOL,Former ELL,ELL,disagree,15.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+200,1715.0,M,LEWIS & CLARK MIDDLE SCHOOL,Not ELL,ELL,disagree,102.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+201,1961.0,M,LEWIS & CLARK MIDDLE SCHOOL,ELL,ELL,neutral,24.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+202,1962.0,M,LEWIS & CLARK MIDDLE SCHOOL,Former ELL,ELL,neutral,36.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+203,1963.0,M,LEWIS & CLARK MIDDLE SCHOOL,Not ELL,ELL,neutral,125.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+204,2209.0,M,LEWIS & CLARK MIDDLE SCHOOL,ELL,ELL,agree,41.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+205,2210.0,M,LEWIS & CLARK MIDDLE SCHOOL,Former ELL,ELL,agree,37.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+206,2211.0,M,LEWIS & CLARK MIDDLE SCHOOL,Not ELL,ELL,agree,153.0,Q34,The atmosphere at this school is positive,School Climate,LEWIS,1029,OPS,LEWIS
+207,231.0,M,MONROE MIDDLE SCHOOL,ELL,ELL,-2,1.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+208,232.0,M,MONROE MIDDLE SCHOOL,Former ELL,ELL,-2,6.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+209,233.0,M,MONROE MIDDLE SCHOOL,Not ELL,ELL,-2,27.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+210,479.0,M,MONROE MIDDLE SCHOOL,ELL,ELL,-1,4.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+211,480.0,M,MONROE MIDDLE SCHOOL,Former ELL,ELL,-1,7.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+212,481.0,M,MONROE MIDDLE SCHOOL,Not ELL,ELL,-1,51.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+213,727.0,M,MONROE MIDDLE SCHOOL,ELL,ELL,0,11.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+214,728.0,M,MONROE MIDDLE SCHOOL,Former ELL,ELL,0,14.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+215,729.0,M,MONROE MIDDLE SCHOOL,Not ELL,ELL,0,103.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+216,975.0,M,MONROE MIDDLE SCHOOL,ELL,ELL,1,24.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+217,976.0,M,MONROE MIDDLE SCHOOL,Former ELL,ELL,1,9.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+218,977.0,M,MONROE MIDDLE SCHOOL,Not ELL,ELL,1,44.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+219,1223.0,M,MONROE MIDDLE SCHOOL,ELL,ELL,2,18.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+220,1224.0,M,MONROE MIDDLE SCHOOL,Former ELL,ELL,2,2.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+221,1225.0,M,MONROE MIDDLE SCHOOL,Not ELL,ELL,2,9.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+222,1471.0,M,MONROE MIDDLE SCHOOL,ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+223,1472.0,M,MONROE MIDDLE SCHOOL,Former ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+224,1473.0,M,MONROE MIDDLE SCHOOL,Not ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+225,1719.0,M,MONROE MIDDLE SCHOOL,ELL,ELL,disagree,5.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+226,1720.0,M,MONROE MIDDLE SCHOOL,Former ELL,ELL,disagree,13.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+227,1721.0,M,MONROE MIDDLE SCHOOL,Not ELL,ELL,disagree,78.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+228,1967.0,M,MONROE MIDDLE SCHOOL,ELL,ELL,neutral,11.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+229,1968.0,M,MONROE MIDDLE SCHOOL,Former ELL,ELL,neutral,14.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+230,1969.0,M,MONROE MIDDLE SCHOOL,Not ELL,ELL,neutral,103.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+231,2215.0,M,MONROE MIDDLE SCHOOL,ELL,ELL,agree,42.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+232,2216.0,M,MONROE MIDDLE SCHOOL,Former ELL,ELL,agree,11.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+233,2217.0,M,MONROE MIDDLE SCHOOL,Not ELL,ELL,agree,53.0,Q34,The atmosphere at this school is positive,School Climate,MONROE,1037,OPS,MONROE
+234,239.0,M,NORRIS MIDDLE SCHOOL,ELL,ELL,-2,2.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+235,240.0,M,NORRIS MIDDLE SCHOOL,Former ELL,ELL,-2,32.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+236,241.0,M,NORRIS MIDDLE SCHOOL,Not ELL,ELL,-2,46.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+237,487.0,M,NORRIS MIDDLE SCHOOL,ELL,ELL,-1,5.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+238,488.0,M,NORRIS MIDDLE SCHOOL,Former ELL,ELL,-1,40.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+239,489.0,M,NORRIS MIDDLE SCHOOL,Not ELL,ELL,-1,69.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+240,735.0,M,NORRIS MIDDLE SCHOOL,ELL,ELL,0,30.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+241,736.0,M,NORRIS MIDDLE SCHOOL,Former ELL,ELL,0,164.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+242,737.0,M,NORRIS MIDDLE SCHOOL,Not ELL,ELL,0,162.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+243,983.0,M,NORRIS MIDDLE SCHOOL,ELL,ELL,1,21.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+244,984.0,M,NORRIS MIDDLE SCHOOL,Former ELL,ELL,1,95.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+245,985.0,M,NORRIS MIDDLE SCHOOL,Not ELL,ELL,1,71.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+246,1231.0,M,NORRIS MIDDLE SCHOOL,ELL,ELL,2,10.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+247,1232.0,M,NORRIS MIDDLE SCHOOL,Former ELL,ELL,2,20.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+248,1233.0,M,NORRIS MIDDLE SCHOOL,Not ELL,ELL,2,40.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+249,1479.0,M,NORRIS MIDDLE SCHOOL,ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+250,1480.0,M,NORRIS MIDDLE SCHOOL,Former ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+251,1481.0,M,NORRIS MIDDLE SCHOOL,Not ELL,ELL,(blank),,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+252,1727.0,M,NORRIS MIDDLE SCHOOL,ELL,ELL,disagree,7.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+253,1728.0,M,NORRIS MIDDLE SCHOOL,Former ELL,ELL,disagree,72.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+254,1729.0,M,NORRIS MIDDLE SCHOOL,Not ELL,ELL,disagree,115.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+255,1975.0,M,NORRIS MIDDLE SCHOOL,ELL,ELL,neutral,30.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+256,1976.0,M,NORRIS MIDDLE SCHOOL,Former ELL,ELL,neutral,164.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+257,1977.0,M,NORRIS MIDDLE SCHOOL,Not ELL,ELL,neutral,162.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+258,2223.0,M,NORRIS MIDDLE SCHOOL,ELL,ELL,agree,31.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+259,2224.0,M,NORRIS MIDDLE SCHOOL,Former ELL,ELL,agree,115.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+260,2225.0,M,NORRIS MIDDLE SCHOOL,Not ELL,ELL,agree,111.0,Q34,The atmosphere at this school is positive,School Climate,NORRIS,1041,OPS,NORRIS
+261,,,ADAMS ELEM SCHOOL,,,,,,,,,1055,OPS,ADAMS
+262,,,ALFONZA W DAVIS MIDDLE SCHOOL,,,,,,,,,1225,OPS,ALFONZA
+263,,,ALICE BUFFETT MAGNET ELEM SCH,,,,,,,,,1024,OPS,ALICE
+264,,,ALICE BUFFETT MAGNET MS,,,,,,,,,1022,OPS,ALICE
+265,,,ASHLAND PARK/ROBBINS ELEM SCH,,,,,,,,,1210,OPS,ASHLAND
+266,,,BEALS ELEM SCHOOL,,,,,,,,,1059,OPS,BEALS
+267,,,BELLE RYAN ELEM SCHOOL,,,,,,,,,1061,OPS,BELLE
+268,,,BELVEDERE ELEMENTARY SCHOOL,,,,,,,,,1063,OPS,BELVEDERE
+269,,,BENSON MAGNET HIGH SCHOOL,,,,,,,,,1001,OPS,BENSON
+270,,,BENSON WEST ELEM SCHOOL,,,,,,,,,1065,OPS,BENSON
+271,,,BEVERIDGE MAGNET MIDDLE SCHOOL,,,,,,,,,1019,OPS,BEVERIDGE
+272,,,BLACKBURN ALTERNATIVE PROGRAM,,,,,,,,,1045,OPS,BLACKBURN
+273,,,BOYD ELEM SCHOOL,,,,,,,,,1067,OPS,BOYD
+274,,,BRYAN HIGH SCHOOL,,,,,,,,,1003,OPS,BRYAN
+275,,,BURKE HIGH SCHOOL,,,,,,,,,1005,OPS,BURKE
+276,,,CAREER CENTER,,,,,,,,,1200,OPS,CAREER
+277,,,CASTELAR ELEMENTARY SCHOOL,,,,,,,,,1069,OPS,CASTELAR
+278,,,CATLIN MAGNET CENTER,,,,,,,,,1071,OPS,CATLIN
+279,,,CENTRAL HIGH SCHOOL,,,,,,,,,1007,OPS,CENTRAL
+280,,,CENTRAL PARK ELEM SCHOOL,,,,,,,,,1073,OPS,CENTRAL
+281,,,CHANDLER VIEW ELEM SCHOOL,,,,,,,,,1075,OPS,CHANDLER
+282,,,COLUMBIAN ELEM SCHOOL,,,,,,,,,1079,OPS,COLUMBIAN
+283,,,CONESTOGA MAGNET ELEM SCHOOL,,,,,,,,,1081,OPS,CONESTOGA
+284,,,CRESTRIDGE MAGNET CENTER,,,,,,,,,1085,OPS,CRESTRIDGE
+285,,,DODGE ELEM SCHOOL,,,,,,,,,1089,OPS,DODGE
+286,,,DRUID HILL ELEMENTARY SCHOOL,,,,,,,,,1091,OPS,DRUID
+287,,,DUNDEE ELEM SCHOOL,,,,,,,,,1093,OPS,DUNDEE
+288,,,EARLY CHILDHOOD CENTER AT EDUCARE - CONESTOGA,,,,,,,,,1315,OPS,EARLY
+289,,,EARLY CHILDHOOD CENTER AT EDUCARE - INDIAN HILL,,,,,,,,,1309,OPS,EARLY
+290,,,EARLY CHILDHOOD CENTER AT EDUCARE - KELLOM,,,,,,,,,1301,OPS,EARLY
+291,,,EARLY CHILDHOOD CENTER AT GATEWAY,,,,,,,,,1300,OPS,EARLY
+292,,,EARLY CHILDHOOD CENTER AT OELC - ASHLAND,,,,,,,,,1319,OPS,EARLY
+293,,,EARLY CHILDHOOD CENTER AT OELC - SKINNER,,,,,,,,,1318,OPS,EARLY
+294,,,EARLY CHILDHOOD CENTER AT YATES,,,,,,,,,1308,OPS,EARLY
+295,,,EDISON ELEM SCHOOL,,,,,,,,,1095,OPS,EDISON
+296,,,ESL TEEN LITERACY PROGRAM,,,,,,,,,1219,OPS,ESL
+297,,,FIELD CLUB ELEM SCHOOL,,,,,,,,,1097,OPS,FIELD
+298,,,FLORENCE ELEM SCHOOL,,,,,,,,,1099,OPS,FLORENCE
+299,,,FONTENELLE ELEM SCHOOL,,,,,,,,,1101,OPS,FONTENELLE
+300,,,FRANKLIN ELEM SCHOOL,,,,,,,,,1103,OPS,FRANKLIN
+301,,,FULLERTON MAGNET CENTER,,,,,,,,,1104,OPS,FULLERTON
+302,,,GATEWAY TO COLLEGE,,,,,,,,,1220,OPS,GATEWAY
+303,,,GILDER ELEM SCHOOL,,,,,,,,,1105,OPS,GILDER
+304,,,GOMEZ HERITAGE ELEMENTARY SCH,,,,,,,,,1107,OPS,GOMEZ
+305,,,HARRISON ELEM SCHOOL,,,,,,,,,1109,OPS,HARRISON
+306,,,HARTMAN ELEM SCHOOL,,,,,,,,,1111,OPS,HARTMAN
+307,,,HIGHLAND ELEM SCHOOL,,,,,,,,,1113,OPS,HIGHLAND
+308,,,INDEPENDENT STUDY PROGRAM,,,,,,,,,1218,OPS,INDEPENDENT
+309,,,INDIAN HILL ELEM SCHOOL,,,,,,,,,1115,OPS,INDIAN
+310,,,INTEGRATED LEARNING PROGRAM,,,,,,,,,1195,OPS,INTEGRATED
+311,,,J P LORD PROGRAM,,,,,,,,,1131,OPS,J
+312,,,JACKSON ELEMENTARY SCHOOL,,,,,,,,,1201,OPS,JACKSON
+313,,,JEFFERSON ELEM SCHOOL,,,,,,,,,1121,OPS,JEFFERSON
+314,,,JOSLYN ELEM SCHOOL,,,,,,,,,1123,OPS,JOSLYN
+315,,,KELLOM ELEMENTARY SCHOOL,,,,,,,,,1125,OPS,KELLOM
+316,,,KENNEDY ELEM SCHOOL,,,,,,,,,1127,OPS,KENNEDY
+317,,,KING ELEMENTARY SCHOOL,,,,,,,,,1205,OPS,KING
+318,,,KING SCIENCE/TECH MAGNET ELEM AND M S,,,,,,,,,1206,OPS,KING
+319,,,LIBERTY ELEMENTARY SCHOOL,,,,,,,,,1174,OPS,LIBERTY
+320,,,LOTHROP MAGNET CENTER,,,,,,,,,1133,OPS,LOTHROP
+321,,,MASTERS ELEM SCHOOL,,,,,,,,,1139,OPS,MASTERS
+322,,,MC MILLAN MAGNET MIDDLE SCHOOL,,,,,,,,,1035,OPS,MC
+323,,,MILLER PARK ELEM SCHOOL,,,,,,,,,1141,OPS,MILLER
+324,,,MINNE LUSA ELEM SCHOOL,,,,,,,,,1143,OPS,MINNE
+325,,,MORTON MAGNET ELEMENTARY SCH,,,,,,,,,1140,OPS,MORTON
+326,,,MORTON MAGNET MIDDLE SCHOOL,,,,,,,,,1039,OPS,MORTON
+327,,,MOUNT VIEW ELEM SCHOOL,,,,,,,,,1147,OPS,MOUNT
+328,,,NATHAN HALE MAGNET MIDDLE SCHOOL,,,,,,,,,1023,OPS,NATHAN
+329,,,NATIVE INDIAN CENTERED EDUCATION (N.I.C.E.),,,,,,,,,1999,OPS,NATIVE
+330,,,OAK VALLEY ELEM SCHOOL,,,,,,,,,1149,OPS,OAK
+331,,,OMAHA NORTH MAGNET HIGH SCHOOL,,,,,,,,,1009,OPS,OMAHA
+332,,,OMAHA NORTHWEST MAGNET HIGH SCHOOL,,,,,,,,,1011,OPS,OMAHA
+333,,,OMAHA PUBLIC SCHOOLS - DISTRICT OFFICE,,,,,,,,,1998,OPS,OMAHA
+334,,,OMAHA PUBLIC SCHOOLS HOMEBASED,,,,,,,,,1213,OPS,OMAHA
+335,,,OMAHA SOUTH MAGNET HIGH SCHOOL,,,,,,,,,1013,OPS,OMAHA
+336,,,OPS HIGH SCHOOL TEEN LITERACY CENTER,,,,,,,,,1997,OPS,OPS
+337,,,PARRISH PROGRAM,,,,,,,,,1051,OPS,PARRISH
+338,,,PAWNEE ELEM SCHOOL,,,,,,,,,1153,OPS,PAWNEE
+339,,,PICOTTE ELEMENTARY SCHOOL,,,,,,,,,1148,OPS,PICOTTE
+340,,,PINEWOOD ELEM SCHOOL,,,,,,,,,1155,OPS,PINEWOOD
+341,,,PONCA ELEM SCHOOL,,,,,,,,,1159,OPS,PONCA
+342,,,PRAIRIE WIND ELEM SCHOOL,,,,,,,,,1209,OPS,PRAIRIE
+343,,,R M MARRS MAGNET ELEM SCHOOL,,,,,,,,,1135,OPS,R
+344,,,R M MARRS MAGNET MIDDLE SCHOOL,,,,,,,,,1033,OPS,R
+345,,,ROSE HILL ELEM SCHOOL,,,,,,,,,1165,OPS,ROSE
+346,,,SADDLEBROOK ELEMENTARY SCHOOL,,,,,,,,,1168,OPS,SADDLEBROOK
+347,,,SARATOGA ELEM SCHOOL,,,,,,,,,1169,OPS,SARATOGA
+348,,,SECONDARY SUCCESS PROGRAM,,,,,,,,,1223,OPS,SECONDARY
+349,,,SHERMAN ELEM SCHOOL,,,,,,,,,1173,OPS,SHERMAN
+350,,,SPRINGVILLE ELEM SCHOOL,,,,,,,,,1177,OPS,SPRINGVILLE
+351,,,STANDING BEAR ELEMENTARY SCH,,,,,,,,,1178,OPS,STANDING
+352,,,SUNNY SLOPE ELEM SCHOOL,,,,,,,,,1179,OPS,SUNNY
+353,,,TRANSITION PROGRAM AT CAREER CENTER,,,,,,,,,1216,OPS,TRANSITION
+354,,,TRANSITION PROGRAM AT EMBASSY SUITES DOWNTOWN/OLD,,,,,,,,,1317,OPS,TRANSITION
+355,,,TRANSITION PROGRAM AT SARATOGA,,,,,,,,,1316,OPS,TRANSITION
+356,,,UNO/OPS MIDDLE COLLEGE PROGRAM,,,,,,,,,1224,OPS,UNO/OPS
+357,,,WAKONDA ELEM SCHOOL,,,,,,,,,1185,OPS,WAKONDA
+358,,,WALNUT HILL ELEM SCHOOL,,,,,,,,,1187,OPS,WALNUT
+359,,,WASHINGTON ELEM SCHOOL,,,,,,,,,1189,OPS,WASHINGTON
+360,,,WESTERN HILLS MAGNET CENTER,,,,,,,,,1191,OPS,WESTERN

@@ -1,0 +1,364 @@
+,attend_percent,school,school_year
+0,95.64,Adams Elementary,2012-2013
+1,95.29,Adams Elementary,2013-2014
+2,95.50,Adams Elementary,2014-2015
+3,nan,Adams Elementary,2015-2016
+4,95.39,Davis Middle,2013-2014
+5,94.9,Davis Middle,2014-2015
+6,nan,Davis Middle,2015-2016
+7,95.28,A. Buffett Magnet,2012-2013
+8,96.19,A. Buffett Magnet,2012-2013
+9,95.39,A. Buffett Magnet,2013-2014
+10,95.93,A. Buffett Magnet,2013-2014
+11,95.9,A. Buffett Magnet,2014-2015
+12,nan,A. Buffett Magnet,2015-2016
+13,95.82,Ashland Park/Robbins*,2012-2013
+14,95.76,Ashland Park/Robbins*,2013-2014
+15,95.80,Ashland Park/Robbins*,2014-2015
+16,nan,Ashland Park/Robbins*,2015-2016
+17,94.62,Bancroft Elementary*,2012-2013
+18,94.79,Bancroft Elementary*,2013-2014
+19,94.60,Bancroft Elementary*,2014-2015
+20,nan,Bancroft Elementary*,2015-2016
+21,95.89,Beals Elementary*,2012-2013
+22,95.49,Beals Elementary*,2013-2014
+23,95.60,Beals Elementary*,2014-2015
+24,nan,Beals Elementary*,2015-2016
+25,95.25,Belle Ryan Elementary*,2012-2013
+26,95.37,Belle Ryan Elementary*,2013-2014
+27,94.70,Belle Ryan Elementary*,2014-2015
+28,nan,Belle Ryan Elementary*,2015-2016
+29,94.10,Belvedere Elementary*,2012-2013
+30,94.06,Belvedere Elementary*,2013-2014
+31,93.20,Belvedere Elementary*,2014-2015
+32,nan,Belvedere Elementary*,2015-2016
+33,89.67,Benson Magnet,2012-2013
+34,89.89,Benson Magnet,2013-2014
+35,90.00,Benson Magnet,2014-2015
+36,nan,Benson Magnet,2015-2016
+37,94.02,Benson West Elementary,2012-2013
+38,94.31,Benson West Elementary,2013-2014
+39,93.80,Benson West Elementary,2014-2015
+40,nan,Benson West Elementary,2015-2016
+41,93.48,Beveridge Magnet,2012-2013
+42,93.44,Beveridge Magnet,2013-2014
+43,94.2,Beveridge Magnet,2014-2015
+44,nan,Beveridge Magnet,2015-2016
+45,nan,Blackburn High,2015-2016
+46,71.2,Blackburn High,2014-2015
+47,68.66,Blackburn High,2013-2014
+48,68.00,Blackburn High,2012-2013
+49,95.60,Boyd Elementary*,2012-2013
+50,95.36,Boyd Elementary*,2013-2014
+51,95.80,Boyd Elementary*,2014-2015
+52,nan,Boyd Elementary*,2015-2016
+53,89.57,Bryan High,2012-2013
+54,89.96,Bryan High,2013-2014
+55,89.70,Bryan High,2014-2015
+56,nan,Bryan High,2015-2016
+57,93.33,Bryan Middle,2012-2013
+58,93.31,Bryan Middle,2013-2014
+59,92.8,Bryan Middle,2014-2015
+60,nan,Bryan Middle,2015-2016
+61,92.31,Burke High,2012-2013
+62,91.65,Burke High,2013-2014
+63,91.40,Burke High,2014-2015
+64,nan,Burke High,2015-2016
+65,95.33,Castelar Elementary*,2012-2013
+66,95.58,Castelar Elementary*,2013-2014
+67,94.80,Castelar Elementary*,2014-2015
+68,nan,Castelar Elementary*,2015-2016
+69,95.85,Catlin Magnet,2012-2013
+70,95.37,Catlin Magnet,2013-2014
+71,95.30,Catlin Magnet,2014-2015
+72,nan,Catlin Magnet,2015-2016
+73,92.17,Central High,2012-2013
+74,91.64,Central High,2013-2014
+75,91.20,Central High,2014-2015
+76,nan,Central High,2015-2016
+77,95.00,Central Park Elementary*,2012-2013
+78,94.76,Central Park Elementary*,2013-2014
+79,94.60,Central Park Elementary*,2014-2015
+80,nan,Central Park Elementary*,2015-2016
+81,95.23,Chandler View Elementary,2012-2013
+82,95.60,Chandler View Elementary,2013-2014
+83,95.20,Chandler View Elementary,2014-2015
+84,nan,Chandler View Elementary,2015-2016
+85,96.17,Columbian Elementary*,2012-2013
+86,96.43,Columbian Elementary*,2013-2014
+87,96.10,Columbian Elementary*,2014-2015
+88,nan,Columbian Elementary*,2015-2016
+89,94.15,Conestoga Magnet,2012-2013
+90,94.07,Conestoga Magnet,2013-2014
+91,93.40,Conestoga Magnet,2014-2015
+92,nan,Conestoga Magnet,2015-2016
+93,96.33,Crestridge Magnet,2012-2013
+94,96.30,Crestridge Magnet,2013-2014
+95,96.20,Crestridge Magnet,2014-2015
+96,nan,Crestridge Magnet,2015-2016
+97,95.71,Dodge Elementary*,2012-2013
+98,95.96,Dodge Elementary*,2013-2014
+99,95.60,Dodge Elementary*,2014-2015
+100,nan,Dodge Elementary*,2015-2016
+101,93.76,Druid Hill Elementary*,2012-2013
+102,94.31,Druid Hill Elementary*,2013-2014
+103,94.00,Druid Hill Elementary*,2014-2015
+104,nan,Druid Hill Elementary*,2015-2016
+105,95.81,Dundee Elementary,2012-2013
+106,95.59,Dundee Elementary,2013-2014
+107,95.60,Dundee Elementary,2014-2015
+108,nan,Dundee Elementary,2015-2016
+109,95.47,Edison Elementary,2012-2013
+110,95.91,Edison Elementary,2013-2014
+111,95.40,Edison Elementary,2014-2015
+112,nan,Edison Elementary,2015-2016
+113,95.48,Field Club Elementary,2012-2013
+114,95.60,Field Club Elementary,2013-2014
+115,95.20,Field Club Elementary,2014-2015
+116,nan,Field Club Elementary,2015-2016
+117,95.29,Florence Elementary,2012-2013
+118,95.37,Florence Elementary,2013-2014
+119,95.10,Florence Elementary,2014-2015
+120,nan,Florence Elementary,2015-2016
+121,95.17,Fontenelle Elementary*,2012-2013
+122,95.03,Fontenelle Elementary*,2013-2014
+123,95.60,Fontenelle Elementary*,2014-2015
+124,nan,Fontenelle Elementary*,2015-2016
+125,96.03,Franklin Elementary,2012-2013
+126,95.12,Franklin Elementary,2013-2014
+127,94.60,Franklin Elementary,2014-2015
+128,nan,Franklin Elementary,2015-2016
+129,96.28,Fullerton Magnet,2012-2013
+130,96.54,Fullerton Magnet,2013-2014
+131,96.20,Fullerton Magnet,2014-2015
+132,nan,Fullerton Magnet,2015-2016
+133,nan,Gateway Elementary,2012-2013
+134,95.95,Gateway Elementary,2013-2014
+135,95.40,Gateway Elementary,2014-2015
+136,nan,Gateway Elementary,2015-2016
+137,95.21,Gilder Elementary,2012-2013
+138,95.26,Gilder Elementary,2013-2014
+139,94.70,Gilder Elementary,2014-2015
+140,nan,Gilder Elementary,2015-2016
+141,95.55,Gomez Heritage Elementary*,2012-2013
+142,95.75,Gomez Heritage Elementary*,2013-2014
+143,95.40,Gomez Heritage Elementary*,2014-2015
+144,nan,Gomez Heritage Elementary*,2015-2016
+145,95.89,Harrison Elementary,2012-2013
+146,95.94,Harrison Elementary,2013-2014
+147,95.60,Harrison Elementary,2014-2015
+148,nan,Harrison Elementary,2015-2016
+149,96.13,Hartman Elementary*,2012-2013
+150,96.12,Hartman Elementary*,2013-2014
+151,96.00,Hartman Elementary*,2014-2015
+152,nan,Hartman Elementary*,2015-2016
+153,95.84,Highland Elementary*,2012-2013
+154,95.57,Highland Elementary*,2013-2014
+155,94.90,Highland Elementary*,2014-2015
+156,nan,Highland Elementary*,2015-2016
+157,95.76,Indian Hill Elementary*,2012-2013
+158,95.32,Indian Hill Elementary*,2013-2014
+159,95.30,Indian Hill Elementary*,2014-2015
+160,nan,Indian Hill Elementary*,2015-2016
+161,nan,Integrated Learning Program at DH,2015-2016
+162,89.6,Integrated Learning Program at DH,2014-2015
+163,nan,Integrated Learning Program at DH,2014-2015
+164,90.59,Integrated Learning Program at DH,2013-2014
+165,nan,Integrated Learning Program at DH,2013-2014
+166,89.12,Integrated Learning Program at DH,2012-2013
+167,92.22,Integrated Learning Program at DH,2012-2013
+168,nan,J P Lord,2015-2016
+169,88.3,J P Lord,2014-2015
+170,88.01,J P Lord,2013-2014
+171,91.24,J P Lord,2012-2013
+172,96.11,Jackson Elementary*,2012-2013
+173,95.99,Jackson Elementary*,2013-2014
+174,95.80,Jackson Elementary*,2014-2015
+175,nan,Jackson Elementary*,2015-2016
+176,95.86,Jefferson Elementary,2012-2013
+177,95.87,Jefferson Elementary,2013-2014
+178,95.50,Jefferson Elementary,2014-2015
+179,nan,Jefferson Elementary,2015-2016
+180,96.06,Joslyn Elementary*,2012-2013
+181,96.93,Joslyn Elementary*,2013-2014
+182,96.10,Joslyn Elementary*,2014-2015
+183,nan,Joslyn Elementary*,2015-2016
+184,95.37,Kellom Elementary*,2012-2013
+185,95.37,Kellom Elementary*,2013-2014
+186,95.60,Kellom Elementary*,2014-2015
+187,nan,Kellom Elementary*,2015-2016
+188,94.55,Kennedy Elementary*,2012-2013
+189,94.86,Kennedy Elementary*,2013-2014
+190,94.90,Kennedy Elementary*,2014-2015
+191,nan,Kennedy Elementary*,2015-2016
+192,93.55,King Elementary*,2012-2013
+193,93.76,King Elementary*,2013-2014
+194,93.10,King Elementary*,2014-2015
+195,nan,King Elementary*,2015-2016
+196,94.07,King Science Magnet,2012-2013
+197,94.45,King Science Magnet,2012-2013
+198,93.85,King Science Magnet,2013-2014
+199,93.61,King Science Magnet,2013-2014
+200,93.6,King Science Magnet,2014-2015
+201,nan,King Science Magnet,2015-2016
+202,93.49,Lewis & Clark Middle,2012-2013
+203,94.20,Lewis & Clark Middle,2013-2014
+204,93.5,Lewis & Clark Middle,2014-2015
+205,nan,Lewis & Clark Middle,2015-2016
+206,95.31,Liberty Elementary*,2012-2013
+207,95.72,Liberty Elementary*,2013-2014
+208,95.80,Liberty Elementary*,2014-2015
+209,nan,Liberty Elementary*,2015-2016
+210,95.06,Lothrop Magnet Elementary*,2012-2013
+211,94.72,Lothrop Magnet Elementary*,2013-2014
+212,93.40,Lothrop Magnet Elementary*,2014-2015
+213,nan,Lothrop Magnet Elementary*,2015-2016
+214,95.56,Masters Elementary,2012-2013
+215,95.69,Masters Elementary,2013-2014
+216,95.70,Masters Elementary,2014-2015
+217,nan,Masters Elementary,2015-2016
+218,93.01,McMillan Magnet,2012-2013
+219,90.97,McMillan Magnet,2013-2014
+220,92.4,McMillan Magnet,2014-2015
+221,nan,McMillan Magnet,2015-2016
+222,94.85,Miller Park Elementary*,2012-2013
+223,95.32,Miller Park Elementary*,2013-2014
+224,94.80,Miller Park Elementary*,2014-2015
+225,nan,Miller Park Elementary*,2015-2016
+226,93.74,Minne Lusa Elementary*,2012-2013
+227,93.26,Minne Lusa Elementary*,2013-2014
+228,92.80,Minne Lusa Elementary*,2014-2015
+229,nan,Minne Lusa Elementary*,2015-2016
+230,91.75,Monroe Middle,2012-2013
+231,91.41,Monroe Middle,2013-2014
+232,91.6,Monroe Middle,2014-2015
+233,nan,Monroe Middle,2015-2016
+234,94.08,Morton Magnet,2012-2013
+235,95.29,Morton Magnet,2012-2013
+236,94.49,Morton Magnet,2013-2014
+237,94.82,Morton Magnet,2013-2014
+238,94.5,Morton Magnet,2014-2015
+239,nan,Morton Magnet,2015-2016
+240,95.01,Mount View Elementary*,2012-2013
+241,94.28,Mount View Elementary*,2013-2014
+242,94.40,Mount View Elementary*,2014-2015
+243,nan,Mount View Elementary*,2015-2016
+244,91.23,Hale Middle,2012-2013
+245,92.18,Hale Middle,2013-2014
+246,90.5,Hale Middle,2014-2015
+247,nan,Hale Middle,2015-2016
+248,93.67,Norris Middle,2012-2013
+249,94.08,Norris Middle,2012-2013
+250,93.12,Norris Middle,2013-2014
+251,92.8,Norris Middle,2014-2015
+252,nan,Norris Middle,2015-2016
+253,94.50,Oak Valley Elementary*,2012-2013
+254,94.68,Oak Valley Elementary*,2013-2014
+255,95.20,Oak Valley Elementary*,2014-2015
+256,nan,Oak Valley Elementary*,2015-2016
+257,91.46,North Magnet,2012-2013
+258,91.03,North Magnet,2013-2014
+259,90.60,North Magnet,2014-2015
+260,nan,North Magnet,2015-2016
+261,89.78,Northwest High,2012-2013
+262,89.72,Northwest High,2013-2014
+263,88.20,Northwest High,2014-2015
+264,nan,Northwest High,2015-2016
+265,89.17,South Magnet,2012-2013
+266,89.03,South Magnet,2013-2014
+267,88.60,South Magnet,2014-2015
+268,nan,South Magnet,2015-2016
+269,nan,Parrish,2015-2016
+270,83.2,Parrish,2014-2015
+271,83.01,Parrish,2013-2014
+272,94.49,Parrish,2012-2013
+273,95.99,Pawnee Elementary,2012-2013
+274,95.94,Pawnee Elementary,2013-2014
+275,95.80,Pawnee Elementary,2014-2015
+276,nan,Pawnee Elementary,2015-2016
+277,96.36,Picotte Elementary,2012-2013
+278,96.41,Picotte Elementary,2013-2014
+279,96.20,Picotte Elementary,2014-2015
+280,nan,Picotte Elementary,2015-2016
+281,95.78,Pinewood Elementary*,2012-2013
+282,95.85,Pinewood Elementary*,2013-2014
+283,95.80,Pinewood Elementary*,2014-2015
+284,nan,Pinewood Elementary*,2015-2016
+285,94.89,Ponca Elementary,2012-2013
+286,96.06,Ponca Elementary,2013-2014
+287,96.00,Ponca Elementary,2014-2015
+288,nan,Ponca Elementary,2015-2016
+289,95.37,Prairie Wind Elementary,2012-2013
+290,95.23,Prairie Wind Elementary,2013-2014
+291,95.50,Prairie Wind Elementary,2014-2015
+292,nan,Prairie Wind Elementary,2015-2016
+293,94.88,Marrs Magnet,2012-2013
+294,95.30,Marrs Magnet,2012-2013
+295,94.34,Marrs Magnet,2013-2014
+296,95.14,Marrs Magnet,2013-2014
+297,94.3,Marrs Magnet,2014-2015
+298,nan,Marrs Magnet,2015-2016
+299,95.75,Rose Hill Elementary,2012-2013
+300,95.70,Rose Hill Elementary,2013-2014
+301,95.30,Rose Hill Elementary,2014-2015
+302,nan,Rose Hill Elementary,2015-2016
+303,96.83,Saddlebrook Elementary,2012-2013
+304,97.21,Saddlebrook Elementary,2013-2014
+305,96.80,Saddlebrook Elementary,2014-2015
+306,nan,Saddlebrook Elementary,2015-2016
+307,94.02,Saratoga Elementary*,2012-2013
+308,94.76,Saratoga Elementary*,2013-2014
+309,94.10,Saratoga Elementary*,2014-2015
+310,nan,Saratoga Elementary*,2015-2016
+311,95.33,Sherman Elementary*,2012-2013
+312,95.14,Sherman Elementary*,2013-2014
+313,94.80,Sherman Elementary*,2014-2015
+314,nan,Sherman Elementary*,2015-2016
+315,94.65,Skinner Magnet,2012-2013
+316,94.25,Skinner Magnet,2013-2014
+317,95.20,Skinner Magnet,2014-2015
+318,nan,Skinner Magnet,2015-2016
+319,95.97,Spring Lake Magnet*,2012-2013
+320,96.31,Spring Lake Magnet*,2013-2014
+321,96.00,Spring Lake Magnet*,2014-2015
+322,nan,Spring Lake Magnet*,2015-2016
+323,96.08,Springville Elementary,2012-2013
+324,96.75,Springville Elementary,2013-2014
+325,96.20,Springville Elementary,2014-2015
+326,nan,Springville Elementary,2015-2016
+327,96.33,Standing Bear Elementary*,2012-2013
+328,96.41,Standing Bear Elementary*,2013-2014
+329,96.70,Standing Bear Elementary*,2014-2015
+330,nan,Standing Bear Elementary*,2015-2016
+331,95.49,Sunny Slope Elementary*,2012-2013
+332,95.94,Sunny Slope Elementary*,2013-2014
+333,95.10,Sunny Slope Elementary*,2014-2015
+334,nan,Sunny Slope Elementary*,2015-2016
+335,nan,UNO/OPS Middle College Program,2015-2016
+336,62.7,UNO/OPS Middle College Program,2014-2015
+337,87.50,UNO/OPS Middle College Program,2013-2014
+338,92.12,UNO/OPS Middle College Program,2012-2013
+339,94.58,Wakonda Elementary*,2012-2013
+340,94.95,Wakonda Elementary*,2013-2014
+341,94.80,Wakonda Elementary*,2014-2015
+342,nan,Wakonda Elementary*,2015-2016
+343,95.48,Walnut Hill Elementary,2012-2013
+344,95.46,Walnut Hill Elementary,2013-2014
+345,96.10,Walnut Hill Elementary,2014-2015
+346,nan,Walnut Hill Elementary,2015-2016
+347,95.91,Washington Elementary*,2012-2013
+348,95.89,Washington Elementary*,2013-2014
+349,95.50,Washington Elementary*,2014-2015
+350,nan,Washington Elementary*,2015-2016
+351,95.19,Western Hills Magnet,2012-2013
+352,95.35,Western Hills Magnet,2013-2014
+353,95.40,Western Hills Magnet,2014-2015
+354,nan,Western Hills Magnet,2015-2016
+355,96.58,Wilson Focus School,2012-2013
+356,95.74,Wilson Focus School,2013-2014
+357,95.50,Wilson Focus School,2014-2015
+358,nan,Wilson Focus School,2015-2016
+359,nan,Early Childhood@ Yates,2015-2016
+360,nan,Early Childhood@ Yates,2014-2015
+361,0.00,Early Childhood@ Yates,2013-2014
+362,nan,Early Childhood@ Yates,2012-2013
