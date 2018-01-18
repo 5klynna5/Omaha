@@ -48,7 +48,7 @@ print(results.head())
 print(results.columns)
 
 
-new_columns = ['date_entered', 'response_id', 'offering', 'offering_other', 'position', 'position_other', 'pac_room_facilitator', 'transition_room_teacher', 'curriculum_specialist', 'grade_level', 'grade_level_other', 'gender', 'amer_indian', 'asian', 'black', 'hispanic', 'white', 'pac_islander', 'race_other', 'race_prefer_not_say', 'multi_racial', 'entity', 'entity_other']
+new_columns = ['date_entered', 'response_id', 'offering', 'offering_other', 'position', 'position_other', 'pac_room_facilitator', 'transition_room_teacher', 'curriculum_specialist', 'grade_level', 'grade_level_other', 'gender', 'amer_indian', 'asian', 'black', 'hispanic', 'pac_islander', 'white', 'multi_racial', 'race_other', 'race_prefer_not_say', 'entity', 'entity_other']
 
 results.columns = new_columns
 
@@ -64,8 +64,8 @@ del results['position_other']
 
 ###replacing various values for gender with FEMALE AND MALE
 
-female_list = ['a woman', 'a woman (female)', 'F', 'Female', 'female', 'Lady', 'straight female', 'woman', 'women']
-male_list = ['gay man', 'male', 'man']
+female_list = ['a woman', 'a woman (female)', 'F', 'I am a woman', 'Mrs.', 'female/woman', 'Female', ' Female', 'female', 'Lady', 'straight female', 'woman', 'Woman', 'women', 'a woman']
+male_list = ['gay man', 'male', 'man', 'M', 'Man', 'm']
 
 female_dict = dict(zip(female_list, (['FEMALE'] * len(female_list))))
 male_dict = dict(zip(male_list, (['MALE'] * len(male_list))))
@@ -79,8 +79,9 @@ results['race_combined'] = results[['amer_indian','asian','black','hispanic','wh
 
 
 ###convert everything upper case
+
 results = results.apply(lambda x: x.str.upper())
-results['semester']= 'sp17'
+results['semester']= 'fa17'
 
 print(results['offering'].value_counts())
 
